@@ -1,0 +1,6 @@
+ERROR:  relation "attractions" does not exist
+LINE 1: SELECT * FROM attractions LIMIT 10;
+                      ^
+ERROR:  relation "attractions" does not exist
+LINE 1: SELECT * FROM attractions LIMIT 10;
+                      ^
